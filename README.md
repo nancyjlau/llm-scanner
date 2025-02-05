@@ -1,4 +1,4 @@
-# llm code snippet analysis
+# llm code analysis
 
 automated llm analysis for python codebases using claude 3 sonnet + openrouter
 
