@@ -22,6 +22,8 @@ pip install requests
 ```python
 python security_tester.py /path/to/your/codebase
 ```
+<img width="1007" alt="image" src="https://github.com/user-attachments/assets/6175c3c0-f2d4-41ca-b1f1-55de9d2513c9" />
+
 
 ## features
 - basic function extraction using ast
